@@ -151,7 +151,7 @@
 
 	body, input, select, textarea {
 		color: #414f57;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Open Sauce SemiBold", Helvetica, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
 		line-height: 2;
@@ -750,7 +750,7 @@
 				width: 3.75em;
 				height: 3.75em;
 				border-radius: 100%;
-				border: solid 1px #c8cccf;
+				border: solid 1px #2C2F33;
 				line-height: 3.75em;
 				overflow: hidden;
 				text-align: center;
@@ -773,7 +773,7 @@
 
 				ul.icons li a:before {
 					color: #ffffff;
-					text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
+					text-shadow: 1.25px 0px 0px #2C2F33, -1.25px 0px 0px #2C2F33, 0px 1.25px 0px #2C2F33, 0px -1.25px 0px #2C2F33;
 				}
 
 				ul.icons li a:hover:before {
